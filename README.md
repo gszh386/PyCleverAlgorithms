@@ -1,3 +1,5 @@
+Adam Ge 2015/01/23  根据CleverAlgorithm原书Ruby代码而写成Python代码的项目追踪
+
 PyCleverAlgorithms
 =================
 
